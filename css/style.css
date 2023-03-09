@@ -34,9 +34,9 @@ code {
 }
 
 a:link {
-  color: "red";
+  color: red;
 }
 
 a:visited {
-  color: "darkred";
+  color: darkred;
 }
