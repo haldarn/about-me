@@ -1,7 +1,7 @@
 /* Feel free to change me and make me your own! */
 
 body {
-  background-color: #edd8c3; 
+  background-color: #D8BFD8; 
   font-family: Georgia, serif; 
 }
 
@@ -31,4 +31,12 @@ ul {
 
 code {
  font-family: 'Courier New', monospace; 
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: darkred;
 }
